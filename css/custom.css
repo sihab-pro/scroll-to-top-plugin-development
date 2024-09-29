@@ -1,0 +1,21 @@
+
+.scroll-to-header{
+    position:fixed;
+    right:25px;
+    bottom:50px;
+    z-index:99999999;
+    display: none;
+}
+
+.scroll-to-header a{
+    text-decoration: none;
+    padding:12px 20px;
+    background-color: rgb(0, 0, 0);
+    border-radius:5px;
+    border:1px solid #b9b8b894;
+   
+}
+
+.scroll-to-header a i{
+    color:#ffffff;
+}
